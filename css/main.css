@@ -1246,7 +1246,7 @@ header ul a:hover{
     }
 
     .hero-info{
-        bottom: 5%;
+        bottom: 15%;
     }
 
     .scroll-down{
@@ -1286,7 +1286,8 @@ header ul a:hover{
     }
 
     .card video{
-        width: 75%;
+        width: 70%;
+        object-fit: cover;
     }
 
     .project-card{
@@ -1311,11 +1312,11 @@ header ul a:hover{
 
     .designer{
         top: 15%;
-        left: 20%;
+        left: 23%;
     }
 
     .coder{
-        top: 40%;
+        top: 35%;
         right: 3%;
         flex-wrap: nowrap;
         width: 30%;
